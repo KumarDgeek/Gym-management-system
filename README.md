@@ -1,1 +1,2 @@
-# Gym-management-system
+Gym management system 
+Add a member management system 
